@@ -26,6 +26,13 @@ The dataset contains:
 
 Total observations: 30,000 customers
 
+## Data
+
+The dataset can be downloaded from:
+UCI Machine Learning Repository:
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+
 ---
 
 ## Research Questions
